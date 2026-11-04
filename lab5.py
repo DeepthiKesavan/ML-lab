@@ -90,7 +90,7 @@ st.sidebar.image(
 )
 st.sidebar.title("Perceptron Lab Navigation")
 st.sidebar.markdown("**Course**: MAI511-2 Advanced Machine Learning")
-st.sidebar.markdown("**Register No Identifier**: `Aaron_101_Lab1`")
+
 
 menu = st.sidebar.radio(
     "Select Lab Question / Module:",
